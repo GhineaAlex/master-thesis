@@ -1,0 +1,8 @@
+# MongoDB Configuration
+uri: "mongodb://localhost:27017"
+database: "Master"
+timeout: 10
+
+# Server Configuration
+host: "localhost"
+port: 8000
